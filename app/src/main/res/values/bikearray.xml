@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+        <string-array name="bikes">
+            <item>2017 Scott Genius 750 Size M</item>
+            <item>2017 Scott Genius 750 Size L</item>
+            <item>Focus SuperBud 29R Size M</item>
+            <item>XTC SLR 27.5 Size M</item>
+            <item>Merida BIG.NINE 20MD Size L</item>
+            <item>Merida BIG.NINE 20MD Size M</item>
+        </string-array>
+
+</resources>
